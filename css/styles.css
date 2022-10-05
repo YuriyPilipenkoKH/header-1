@@ -8,17 +8,11 @@ body {
     height: 80px;
     left: 0px;
     top: 0px;
-/*
-    padding-top: 25px;   
-*/
+
     border: 1px solid #ececec;
 }
 .logo1 {
-    position: absolute;
-    width: 145px;
-    height: 31px;
-    left: 215px;
-    bottom: 25px;
+
     font-family: 'Raleway';
     font-style: normal;
     font-weight: 700;
@@ -37,81 +31,59 @@ body {
     color: #ffffff;    
 }
 .nav,.contacts {
-    float: left;
+
     list-style-type: none;
 }
 .top1 {
-    position: absolute;
-    width: 45px;
-    height: 16px;
-    left: 453px;
-    top: 32px;
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    list-style-type: none;
+
     text-decoration: none;
     color: #212121; 
 }
 .top2 {
-    position: absolute;
-    width: 72px;
-    height: 16px;
-    left: 548px;
-    top: 32px;
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    list-style-type: none;
+
     text-decoration: none;
     color: #212121;    
 }
 .top3 {
-    position: absolute;
-    width: 64px;
-    height: 16px;
-    left: 670px;
-    top: 32px;
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    list-style-type: none;
+
     text-decoration: none;    
     color: #212121;   
 }
 .top4 {
-    position: absolute;
-    width: 135px;
-    height: 16px;
-    left: 1078px;
-    top: 32px;
-    
+
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    list-style-type: none;
+
     text-decoration: none;     
     color: #757575;
         
 }
 .top5 {
-    position: absolute;
-    width: 122px;
-    height: 16px;
-    left: 1263px;
-    top: 32px;
     
     font-family: 'Roboto';
     font-style: normal;
@@ -119,7 +91,7 @@ body {
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
-    list-style-type: none;
+
     text-decoration: none;
     color: #757575;    
 }
@@ -127,9 +99,11 @@ body {
 .top2:hover,
 .top3:hover,
 .top4:hover,
+.top5:hover,
 .top1:focus,
 .top2:focus,
 .top3:focus,
-.top4:focus {
+.top4:focus,
+.top5:focus {
     color: #2196f3;
   }
