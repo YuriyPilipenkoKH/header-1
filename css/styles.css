@@ -25,12 +25,15 @@ body {
 }
 .logo2 {
     color: #000000;    
+  
 }
 
 .logo3 {
     color: #ffffff;    
 }
 .nav,.contacts {
+    display: inline-block;
+    
 
     list-style-type: none;
 }
